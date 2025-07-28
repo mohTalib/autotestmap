@@ -13,7 +13,7 @@ setup(
     description="A tool to automatically map Python source files to their corresponding test files.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/example/autotestmap",
+    url="https://github.com/mohTalib/autotestmap",
     packages=find_packages(),
     # Define the command-line script entry point.
     entry_points={
